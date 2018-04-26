@@ -29,5 +29,9 @@ git add . <br>
 git commit -m "Commit 4" <br>
 git merge master - _Merge bug-fix to master_ <br>
 gedit README.md - _fix merge conflict_ <br>
+**Sixth Edit** <br>
+git add . <br>
+git commit -m "Commit 5" <br>
+gedit README.md <br>
 
 
