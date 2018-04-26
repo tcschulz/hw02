@@ -5,4 +5,8 @@ This document details the commits made and the commands used in the process to c
 ### Commands
 
 **First Edit** <br>
-
+gedit README.md <br>
+git init <br>
+git add . <br>
+git commit -m "Commit 0" <br>
+gedit README.md <br>
