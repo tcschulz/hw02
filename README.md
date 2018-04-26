@@ -10,3 +10,8 @@ git init <br>
 git add . <br>
 git commit -m "Commit 0" <br>
 gedit README.md <br>
+**Second Edit** <br>
+git add . <br>
+git commit -m "Commit 1" <br>
+gedit README.md <br>
+
