@@ -14,4 +14,9 @@ gedit README.md <br>
 git add . <br>
 git commit -m "Commit 1" <br>
 gedit README.md <br>
+**Ninth Edit** <br>
+git add . <br>
+git commit -m "Commit 9" <br>
+git checkout master _ _Switch back to master branch for commit 10_ <br>
+gedit README.md <br>
 
