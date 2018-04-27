@@ -55,6 +55,17 @@ git commit -m "Commit 10" <br>
 git checkout bug-fix - _Switch back to bug-fix for 11_ <br>
 git merge bug-fix experimental - _Merge at Commit 11_ <br>
 gedit README.md - _Fix merge conflict_<br>
+**12th Edit** <br>
+git add . <br>
+git commit -m "Commit 11" <br>
+gedit README.md <br>
+
+
+
+
+
+
+
 
 
 
