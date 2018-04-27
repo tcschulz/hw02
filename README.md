@@ -33,5 +33,29 @@ gedit README.md - _fix merge conflict_ <br>
 git add . <br>
 git commit -m "Commit 5" <br>
 gedit README.md <br>
+**Seventh Edit** <br>
+git add . <br>
+git commit -m "Commit 6" <br>
+git log --graph - _Find Commit 4 ID_ <br>
+git checkout 1ee8e8a731159e32c1f16b5bfbc06f0f70a29892 - _Switch to Commit 4_ <br>
+git checkout -b "bug-fix-experimental" - _Make new branch_ <br>
+gedit README.md <br>
+**Eighth Edit** <br>
+git add . <br>
+git commit -m "Commit 7" <br>
+gedit README.md <br>
+**Ninth Edit** <br>
+git add . <br>
+git commit -m "Commit 8" <br>
+gedit README.md <br>
+
+**11th Edit**
+git add . <br>
+git commit -m "Commit 10" <br>
+git checkout bug-fix - _Switch back to bug-fix for 11_ <br>
+git merge bug-fix experimental - _Merge at Commit 11_ <br>
+gedit README.md - _Fix merge conflict_<br>
+
+
 
 
