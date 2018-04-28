@@ -1,4 +1,6 @@
-# Homework 2 CSCI 5828; Tanya Schulz
+# CSCI 5828: Homework 2
+## Tanya Schulz
+##
 
 This document details the commits made and the commands used in the process to create the desired graph for the assignment.
 
@@ -81,4 +83,21 @@ git commit -m "Commit 12" <br>
 git checkout master - _Switch back to master for 13_ <br>
 git merge bug-fix - _Merge at Commit 13_ <br>
 gedit README.md - _Fix merge conflict_ <br>
+
+**14th Edit**
+git add README.md
+git commit -m "Commit 13" <br>
+gedit README.md 
+
+**15th Edit**
+git add commit-graph.png - _Add the commit graph_ <br>
+git add README.md <br>
+git commit -m "Commit 14" <br>
+
+
+
+
+
+
+
 
