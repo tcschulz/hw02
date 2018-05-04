@@ -1,6 +1,6 @@
 # CSCI 5828: Homework 2
 ## Tanya Schulz
-##
+## Spring 2018
 
 This document details the commits made and the commands used in the process to create the desired graph for the assignment.
 
